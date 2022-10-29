@@ -4,6 +4,8 @@
 
 Версия: 1.0.1.1
 
+Подробнее о самом плагине: https://inwebpress.com/nastrojka-pisem-woocommerce/
+
 ## Инструкция
 
 Загрузите файл: viwec-email-template-customizer-ru_RU
