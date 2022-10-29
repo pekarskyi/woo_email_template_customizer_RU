@@ -1,0 +1,955 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Email Template Customizer Premium 1.0.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-30 03:57+0000\n"
+"PO-Revision-Date: 2020-12-26 22:30+0200\n"
+"Last-Translator: Николай Пекарский <dizer7@gmail.com>\n"
+"Language-Team: Николай Пекарский <dizer7@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: includes/templates/email-editor.php:541
+msgid "/ month"
+msgstr "/ месяц"
+
+#: includes/i18n.php:17
+msgid "1 Column"
+msgstr "1 колонка"
+
+#: includes/i18n.php:18
+msgid "2 Columns"
+msgstr "2 колонки"
+
+#: includes/i18n.php:19
+msgid "3 Columns"
+msgstr "3 колонки"
+
+#: includes/i18n.php:20
+msgid "4 Columns"
+msgstr "4 колонки"
+
+#: includes/email-builder.php:433
+msgid "Add Email Subject"
+msgstr "Укажите тему письма"
+
+#: includes/email-builder.php:92
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: includes/templates/email-editor.php:49
+msgid "Add new"
+msgstr "Добавить новый"
+
+#: includes/email-builder.php:91
+msgid "Add New Email Template"
+msgstr "Добавить новый шаблон"
+
+#: includes/templates/email-type.php:37
+msgid "Admin"
+msgstr "Администратор"
+
+#: includes/email-builder.php:167
+msgid "Admin's note for this template"
+msgstr "Примечание администратора для этого шаблона"
+
+#: includes/i18n.php:88
+msgid "All category"
+msgstr "Все категории"
+
+#: includes/email-builder.php:90
+msgid "All Emails"
+msgstr "Все письма"
+
+#: includes/i18n.php:59
+msgid "Allow free shipping"
+msgstr "Разрешить бесплатную доставку"
+
+#: includes/templates/email-rules.php:12
+msgid "Apply to billing countries"
+msgstr "Применить к стране"
+
+#: includes/templates/email-rules.php:26
+msgid "Apply to categories"
+msgstr "Применить к категориям"
+
+#: includes/templates/email-rules.php:50
+msgid "Apply to max order"
+msgstr "Максимальная сумма заказа"
+
+#: includes/templates/email-rules.php:42
+msgid "Apply to min order"
+msgstr "Минимальная сумма заказа"
+
+#: includes/i18n.php:108
+msgid "Auto add to cart in product URL"
+msgstr "При клике добавить товар также в корзину"
+
+#: includes/init.php:447
+msgid "AUTO UPDATE PLUGIN"
+msgstr "Автоматическое обновление плагина"
+
+#: includes/templates/email-editor.php:100
+msgid "Background"
+msgstr "Фон"
+
+#: includes/email-samples.php:49 includes/email-samples.php:56
+#: includes/email-samples.php:63 includes/email-samples.php:70
+#: includes/email-samples.php:77 includes/email-samples.php:84
+#: includes/email-samples.php:91 includes/email-samples.php:98
+#: includes/email-samples.php:105 includes/email-samples.php:112
+#: includes/email-samples.php:119 includes/email-samples.php:126
+#: includes/email-samples.php:133 includes/email-samples.php:140
+#: includes/i18n.php:12
+msgid "Basic"
+msgstr "Основной"
+
+#: includes/i18n.php:80
+msgid "Best rated"
+msgstr "Лучший рейтинг"
+
+#: includes/i18n.php:79
+msgid "Best seller"
+msgstr "Хит продаж"
+
+#: includes/i18n.php:31
+msgid "Billing address"
+msgstr "Платежный адрес"
+
+#: includes/init.php:70 includes/init.php:78 includes/init.php:86
+#: includes/init.php:94 includes/init.php:106 includes/init.php:119
+#: includes/init.php:132 includes/init.php:145 includes/init.php:158
+#: includes/init.php:171
+msgid "Black"
+msgstr "Черный"
+
+#: includes/init.php:113 includes/init.php:126 includes/init.php:139
+#: includes/init.php:152 includes/init.php:165 includes/init.php:178
+msgid "Black - White"
+msgstr "Черный - Белый"
+
+#: includes/init.php:110 includes/init.php:123 includes/init.php:136
+#: includes/init.php:149 includes/init.php:162 includes/init.php:175
+msgid "Black border"
+msgstr "Черная рамка"
+
+#: includes/init.php:73 includes/init.php:81 includes/init.php:89
+#: includes/init.php:97
+msgid "Black/Border"
+msgstr "Черный/Рамка"
+
+#: includes/init.php:74 includes/init.php:82 includes/init.php:90
+#: includes/init.php:98
+msgid "Black/White"
+msgstr "Черный/белый"
+
+#: includes/i18n.php:23
+msgid "Button"
+msgstr "Кнопка"
+
+#: includes/i18n.php:54
+msgid "Categories"
+msgstr "Категории"
+
+#: includes/i18n.php:74
+msgid "Category"
+msgstr "Категория"
+
+#: includes/i18n.php:84
+msgid "Charracter limit"
+msgstr "Лимит символов"
+
+#: includes/templates/email-editor.php:256
+#: includes/templates/email-editor.php:293
+msgid "Clear"
+msgstr "Очистить"
+
+#: includes/init.php:108 includes/init.php:121 includes/init.php:134
+#: includes/init.php:147 includes/init.php:160 includes/init.php:173
+msgid "Color"
+msgstr "Цвет"
+
+#: includes/init.php:112 includes/init.php:125 includes/init.php:138
+#: includes/init.php:151 includes/init.php:164 includes/init.php:177
+msgid "Color - White"
+msgstr "Цвет - Белый"
+
+#: includes/init.php:111 includes/init.php:124 includes/init.php:137
+#: includes/init.php:150 includes/init.php:163 includes/init.php:176
+msgid "Color border"
+msgstr "Цветная рамка"
+
+#: includes/i18n.php:83
+msgid "Column"
+msgstr "Колонки"
+
+#: includes/i18n.php:99
+msgid "Column ratio"
+msgstr "Соотношение колонок"
+
+#: includes/templates/email-editor.php:13
+msgid "Components"
+msgstr "Компоненты"
+
+#: includes/i18n.php:36
+msgid "Contact"
+msgstr "Контакты"
+
+#: includes/i18n.php:15
+msgid "Content"
+msgstr "Контент"
+
+#: includes/templates/email-editor.php:54
+msgid "Copy to draft"
+msgstr "Копировать в черновик"
+
+#: includes/i18n.php:34
+msgid "Coupon"
+msgstr "Купон"
+
+#: includes/i18n.php:46
+msgid "Coupon amount"
+msgstr "Сумма купона"
+
+#: includes/i18n.php:41
+msgid "Coupon type"
+msgstr "Тип купона"
+
+#: includes/i18n.php:78
+msgid "Cross sell"
+msgstr "Перекрестная продажа"
+
+#: includes/email-builder.php:359 includes/templates/email-type.php:40
+msgid "Customer"
+msgstr "Клиент"
+
+#: includes/i18n.php:103 includes/utils.php:156
+msgid "Customer note"
+msgstr "Примечание клиента"
+
+#: includes/email-builder.php:176
+msgid "Data"
+msgstr "Данные"
+
+#: includes/email-builder.php:341
+msgid "Date"
+msgstr "Дата"
+
+#: includes/i18n.php:64
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/utils.php:140
+msgid "Default template"
+msgstr "Шаблон по умолчанию"
+
+#: includes/templates/email-testing.php:53
+msgid "Desktop & mobile (width >380px)"
+msgstr "ПК & Моб (ширина > 380px)"
+
+#: includes/init.php:105 includes/init.php:118 includes/init.php:131
+#: includes/init.php:144 includes/init.php:157 includes/init.php:170
+msgid "Disable"
+msgstr "Отключить"
+
+#: includes/i18n.php:105
+msgid "Discount"
+msgstr "Скидка"
+
+#: includes/i18n.php:45
+msgid "Discount type"
+msgstr "Тип скидки"
+
+#: includes/i18n.php:39
+msgid "Divider"
+msgstr "Разделитель"
+
+#: includes/i18n.php:94
+msgid "Do you want to change email template?"
+msgstr "Вы хотите изменить шаблон письма?"
+
+#: includes/utils.php:160
+msgid "Doe"
+msgstr "Иванов"
+
+#: includes/email-builder.php:374
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: includes/i18n.php:71
+msgid "Edit"
+msgstr "Редактировать"
+
+#: includes/templates/email-editor.php:144
+msgid "Edit column"
+msgstr "Редактировать колонку"
+
+#: includes/email-builder.php:93
+msgid "Edit Email Templates"
+msgstr "Изменить шаблоны"
+
+#: includes/email-builder.php:454
+msgid "Edit with WC Email Template Customizer"
+msgstr "Изменить с помощью WC Email Template Customizer"
+
+#: includes/templates/email-editor.php:14
+msgid "Editor"
+msgstr "Редактор"
+
+#: includes/email-builder.php:131
+msgid "Email"
+msgstr "Email"
+
+#: includes/email-builder.php:337
+msgid "Email subject"
+msgstr "Тема письма"
+
+#: includes/email-builder.php:88 includes/email-builder.php:101
+msgid "Email Templates"
+msgstr "Шаблоны писем"
+
+#: includes/email-builder.php:140
+msgid "Email type"
+msgstr "Тип письма"
+
+#: includes/email-builder.php:302
+msgid "Email was sent successfully"
+msgstr "Письмо было успешно отправлено"
+
+#: includes/i18n.php:109
+msgid "Enable"
+msgstr "Включить"
+
+#: includes/email-render.php:1085 includes/templates/email-editor.php:522
+msgid "End date"
+msgstr "Дата окончания"
+
+#: includes/i18n.php:55
+msgid "Exclude categories"
+msgstr "Исключить категории"
+
+#: includes/i18n.php:90
+msgid "Exclude posts"
+msgstr "Исключить записи"
+
+#: includes/i18n.php:53
+msgid "Exclude products"
+msgstr "Исключить товары"
+
+#: includes/i18n.php:61
+msgid "Exclude sale items"
+msgstr "Исключить товары со скидкой"
+
+#: includes/i18n.php:43
+msgid "Existing coupon"
+msgstr "Существующий купон"
+
+#: includes/templates/email-editor.php:42
+msgid "Exit to DashBoard"
+msgstr "Выйти из настроек"
+
+#: includes/i18n.php:50
+msgid "Expire after x days"
+msgstr "Объявления истекают через X дней"
+
+#: includes/i18n.php:76
+msgid "Featured"
+msgstr "Рекомендуемые"
+
+#: includes/email-builder.php:411
+msgid "Filter by type"
+msgstr "Фильтр по типу"
+
+#: includes/i18n.php:48
+msgid "Fixed cart discount"
+msgstr "Фиксированная скидка на сумму заказа"
+
+#: includes/i18n.php:49
+msgid "Fixed product discount"
+msgstr "Фиксированная скидка на товар"
+
+#: includes/utils.php:177
+msgid "Flat rate"
+msgstr "Единые ставки"
+
+#: includes/templates/email-editor.php:596
+msgid "Free shipping"
+msgstr "Бесплатная доставка"
+
+#: includes/utils.php:132
+msgid "full"
+msgstr "Полный"
+
+#: includes/i18n.php:44
+msgid "Generate coupon"
+msgstr "Создать купон"
+
+#: includes/init.php:459
+msgid "Get Key"
+msgstr "Получить ключ"
+
+#: includes/init.php:468
+msgid "guide"
+msgstr "Руководство"
+
+#: includes/i18n.php:101
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: includes/i18n.php:66
+msgid "Horizontal text"
+msgstr "Горизонтальный текст"
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr "https://villatheme.com"
+
+#. URI of the plugin
+msgid ""
+"https://villatheme.com/extensions/woocommerce-email-template-customizer/"
+msgstr ""
+"https://villatheme.com/extensions/woocommerce-email-template-customizer/"
+
+#: includes/i18n.php:22
+msgid "Image"
+msgstr "Изображение"
+
+#: includes/i18n.php:89
+msgid "Include posts"
+msgstr "Включить записи"
+
+#: includes/i18n.php:60
+msgid "Individual use only"
+msgstr "Только для индивидуального использования"
+
+#: includes/utils.php:158
+msgid "John"
+msgstr "Иван"
+
+#: includes/utils.php:155
+msgid "John Doe"
+msgstr "Иван Иванов"
+
+#: includes/i18n.php:70
+msgid "Last column width"
+msgstr "Ширина последней колонки"
+
+#: includes/i18n.php:14
+msgid "Layout"
+msgstr "Макет"
+
+#: includes/i18n.php:57
+msgid "Limit usage to X items"
+msgstr "Установить количество товаров, на которые действует купон"
+
+#. Description of the plugin
+msgid "Make your WooCommerce emails become professional."
+msgstr "Сделайте ваши письма WooCommerce более уникальными и стильными."
+
+#: includes/i18n.php:82
+msgid "Max row"
+msgstr "Строки"
+
+#: includes/i18n.php:52
+msgid "Maximum spend"
+msgstr "Максимальная бюджет"
+
+#: includes/i18n.php:37
+msgid "Menu bar"
+msgstr "Меню"
+
+#: includes/i18n.php:51
+msgid "Minimum spend"
+msgstr "Минимальный бюджет"
+
+#: includes/templates/email-editor.php:60
+msgid "Move to trash"
+msgstr "В корзину"
+
+#: includes/i18n.php:81
+msgid "Newest"
+msgstr "Новые"
+
+#: includes/email-render.php:1121 includes/templates/email-editor.php:541
+msgid "Next payment:"
+msgstr "Следующий платеж:"
+
+#: includes/email-builder.php:96
+msgid "Not Found"
+msgstr "Ничего не найдено"
+
+#: includes/email-builder.php:97
+msgid "Not found in Trash"
+msgstr "Корзина пуста"
+
+#: includes/email-builder.php:340 includes/email-builder.php:521
+msgid "Note"
+msgstr "Примечание"
+
+#: includes/i18n.php:75
+msgid "On sale"
+msgstr "Распродажа"
+
+#: includes/i18n.php:24
+msgid "Order detail"
+msgstr "Сведения о заказе"
+
+#: includes/i18n.php:96
+msgid "Order items"
+msgstr "Заказанные товары"
+
+#: includes/utils.php:165
+msgid "Order note"
+msgstr "Примечание к заказу"
+
+#: includes/i18n.php:25
+msgid "Order subtotal"
+msgstr "Подытог"
+
+#: includes/i18n.php:26
+msgid "Order total"
+msgstr "Общая сумма"
+
+#: includes/view-product.php:101
+msgid "Ordered"
+msgstr "Заказано"
+
+#: includes/view-product.php:137
+msgid "Ordered & clicked from suggestion product in email"
+msgstr "Заказано и нажато из предложения товара в письме"
+
+#: includes/utils.php:134
+msgid "paid"
+msgstr "оплачено"
+
+#: includes/email-builder.php:89
+msgid "Parent Email"
+msgstr "Родительское уведомление"
+
+#: includes/utils.php:131
+msgid "partial"
+msgstr "Частичное"
+
+#: includes/email-render.php:468 includes/i18n.php:30
+msgid "Payment method"
+msgstr "Метод оплаты"
+
+#: includes/templates/email-editor.php:597
+msgid "Payment method:"
+msgstr "Способ оплаты:"
+
+#: includes/utils.php:173
+msgid "Paypal"
+msgstr "Paypal"
+
+#: includes/utils.php:133
+msgid "pending"
+msgstr "в ожидании"
+
+#: includes/i18n.php:47
+msgid "Percentage discount"
+msgstr "Скидка в процентах"
+
+#: includes/init.php:464
+msgid "Please fill your key what you get from"
+msgstr "Пожалуйста, укажите свой ключ, который вы получили"
+
+#: woocommerce-email-template-customizer.php:54
+msgid "Please install and activate WooCommerce to use"
+msgstr "Пожалуйста, установите и активируйте WooCommerce для использования"
+
+#: woocommerce-email-template-customizer.php:46
+msgid "Please upgrade php version to"
+msgstr "Пожалуйста, обновите версию php до"
+
+#: woocommerce-email-template-customizer.php:63
+msgid "Please upgrade WooCommerce version to"
+msgstr "Пожалуйста, обновите версию WooCommerce до"
+
+#: woocommerce-email-template-customizer.php:40
+msgid "Please upgrade WordPress version to"
+msgstr "Пожалуйста, обновите версию WordPress до"
+
+#: includes/i18n.php:35
+msgid "Post"
+msgstr "Отправить"
+
+#: includes/i18n.php:92
+msgid "Post content"
+msgstr "Содержимое записи"
+
+#: includes/i18n.php:93
+msgid "Post distance"
+msgstr "Расстояние между статьями"
+
+#: includes/i18n.php:91
+msgid "Post title"
+msgstr "Название записи"
+
+#: includes/email-builder.php:86
+msgctxt "Post Type General Name"
+msgid "Email Templates"
+msgstr "Шаблоны писем"
+
+#: includes/email-builder.php:87
+msgctxt "Post Type Singular Name"
+msgid "Email Templates"
+msgstr "Шаблоны писем"
+
+#: includes/templates/email-testing.php:49
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: includes/templates/email-testing.php:36
+msgid "Preview width device screen width < 380px"
+msgstr "Ширина экрана просмотра < 380px"
+
+#: includes/templates/email-testing.php:33
+msgid "Preview width device screen width > 380px"
+msgstr "Ширина экрана просмотра > 380px"
+
+#: includes/i18n.php:69 includes/i18n.php:106
+#: includes/templates/email-editor.php:566
+#: includes/templates/order-items/pre-style-1.php:11
+#: includes/templates/order-items/style-1.php:10
+msgid "Price"
+msgstr "Цена"
+
+#: includes/i18n.php:68 includes/templates/email-editor.php:564
+#: includes/templates/order-items/pre-style-1.php:9
+#: includes/templates/order-items/style-1.php:8
+msgid "Product"
+msgstr "Товар"
+
+#: includes/i18n.php:87
+msgid "Product distance"
+msgstr "Расстояние между товарами"
+
+#: includes/i18n.php:86
+msgid "Product name"
+msgstr "Название товара"
+
+#: includes/i18n.php:85
+msgid "Product type"
+msgstr "Тип товара"
+
+#: includes/i18n.php:33
+msgid "Products"
+msgstr "Товары"
+
+#: includes/i18n.php:67 includes/i18n.php:107
+#: includes/templates/email-editor.php:565
+#: includes/templates/order-items/pre-style-1.php:10
+#: includes/templates/order-items/style-1.php:9
+msgid "Quantity"
+msgstr "Количество"
+
+#: includes/email-builder.php:339
+msgid "Recipient"
+msgstr "Получатель"
+
+#: includes/email-render.php:1086 includes/templates/email-editor.php:523
+msgid "Recurring total"
+msgstr "Регулярные списания"
+
+#: includes/i18n.php:97
+msgid "Refunded fully"
+msgstr "Полный возврат"
+
+#: includes/i18n.php:98
+msgid "Refunded partial"
+msgstr "Частичный возврат"
+
+#: includes/i18n.php:73
+msgid "Related"
+msgstr "Похожие"
+
+#: includes/view-product.php:62 includes/view-product.php:63
+#: includes/view-product.php:122
+msgid "Report"
+msgstr "Отчет"
+
+#: includes/email-builder.php:149
+msgid "Rules"
+msgstr "Правила"
+
+#: includes/i18n.php:13
+msgid "Sample"
+msgstr "Пример"
+
+#: includes/init.php:461
+msgid "Save Key"
+msgstr "Сохранить ключ"
+
+#: includes/templates/email-editor.php:20
+msgid "Search element"
+msgstr "Поиск элемента"
+
+#: includes/email-builder.php:95
+msgid "Search Email Templates"
+msgstr "Поиск шаблонов"
+
+#: includes/i18n.php:95
+msgid "Select"
+msgstr "Выбрать"
+
+#: includes/i18n.php:42
+msgid "Select coupon"
+msgstr "Выберите купон"
+
+#: includes/i18n.php:16
+msgid "Select email type"
+msgstr "Выберите тип письма"
+
+#: includes/templates/email-editor.php:107
+msgid "Select layout"
+msgstr "Выберите макет"
+
+#: includes/templates/email-testing.php:8
+msgid "Select order"
+msgstr "Выберите заказ"
+
+#: includes/templates/email-testing.php:39
+#: includes/templates/email-testing.php:61
+msgid "Send test email"
+msgstr "Отправить тестовое письмо"
+
+#: includes/templates/email-testing.php:28
+msgid "Send to"
+msgstr "Отправить кому"
+
+#: woocommerce-email-template-customizer.php:175 includes/init.php:479
+#: includes/init.php:480
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/i18n.php:27
+msgid "Shipping"
+msgstr "Доставка"
+
+#: includes/i18n.php:32
+msgid "Shipping address"
+msgstr "Адрес доставки"
+
+#: includes/email-render.php:448 includes/i18n.php:29
+msgid "Shipping method"
+msgstr "Способ доставки"
+
+#: includes/templates/email-editor.php:596
+msgid "Shipping:"
+msgstr "Доставка:"
+
+#: includes/i18n.php:110
+msgid "Show SKU"
+msgstr "Показать артикул"
+
+#: includes/i18n.php:38
+msgid "Social"
+msgstr "Социальные сети"
+
+#: includes/i18n.php:102
+msgid "Socials"
+msgstr "Социальные сети"
+
+#: includes/i18n.php:40
+msgid "Spacer"
+msgstr "Пробел"
+
+#: includes/email-render.php:1084 includes/templates/email-editor.php:521
+msgid "Start date"
+msgstr "Дата начала"
+
+#: includes/i18n.php:72
+msgid "Style"
+msgstr "Стиль"
+
+#: includes/templates/email-editor.php:580
+msgid "Subscription product"
+msgstr "Подписка на продукт"
+
+#: includes/i18n.php:104 includes/templates/email-rules.php:7
+msgid "Subtotal"
+msgstr "Сумма"
+
+#: includes/templates/email-editor.php:595
+msgid "Subtotal:"
+msgstr "Подытог:"
+
+#: includes/i18n.php:62
+msgid "Template"
+msgstr "Шаблон"
+
+#: assets/js/components.js:3295
+msgid "Test JS"
+msgstr "Тест JS"
+
+#: includes/email-builder.php:158
+msgid "Testing"
+msgstr "Тестирование"
+
+#: includes/i18n.php:21
+msgid "Text"
+msgstr "Текст"
+
+#: includes/email-render.php:1073
+msgid "The content of original email will be transferred here"
+msgstr "Содержимое оригинального письма будет передано сюда"
+
+#: includes/email-render.php:1064
+msgid "The heading of original email will be transferred here"
+msgstr "Заголовок оригинального письма будет передано сюда"
+
+#: includes/email-samples.php:25
+msgid ""
+"This template will be used in the case of none detected template and the "
+"subject will be get from original email"
+msgstr ""
+"Этот шаблон будет использоваться в случае, если ни один из шаблонов не "
+"будет обнаружен, а тема будет получена из оригинального письма"
+
+#: includes/email-builder.php:522
+msgid ""
+"To display the content of the 3rd plugins (Checkout Field Editor, Flexible "
+"Checkout Fields,...), drag and drop the WC Hook element to the position "
+"which you want to display it in email template."
+msgstr ""
+"Чтобы отобразить содержимое 3-го плагина (Checkout Field Editor, Flexible "
+"Checkout Fields,...), перетащите элемент WC Hook в область письма."
+
+#: woocommerce-email-template-customizer.php:40
+#: woocommerce-email-template-customizer.php:46
+#: woocommerce-email-template-customizer.php:63
+msgid "to use"
+msgstr "изпользовать"
+
+#: includes/templates/email-editor.php:46
+msgid "Toggle admin menu"
+msgstr "Показать меню"
+
+#: includes/email-render.php:407 includes/i18n.php:28
+msgid "Total"
+msgstr "Всего"
+
+#: includes/templates/email-editor.php:598
+msgid "Total:"
+msgstr "Всего:"
+
+#: includes/i18n.php:63
+msgid "Translate text"
+msgstr "Перевести текст"
+
+#: includes/email-builder.php:338
+msgid "Type"
+msgstr "Тип"
+
+#: includes/functions.php:90
+msgid "Unlock this feature"
+msgstr "Разблокировать эту функцию"
+
+#: includes/i18n.php:77
+msgid "Up sell"
+msgstr "Апселл-товары"
+
+#: includes/email-builder.php:94
+msgid "Update Email Templates"
+msgstr "Обновить шаблоны"
+
+#: includes/i18n.php:56
+msgid "Usage limit per coupon"
+msgstr "Лимит использования купона"
+
+#: includes/i18n.php:58
+msgid "Usage limit per user"
+msgstr "Лимит использования на одного пользователя"
+
+#: includes/i18n.php:100
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: includes/i18n.php:65
+msgid "Vertical text"
+msgstr "Вертикальный текст"
+
+#: includes/templates/email-editor.php:597
+msgid "Via Manual Renewal"
+msgstr "Через ручное продление"
+
+#: includes/view-product.php:130
+msgid "View"
+msgstr "Просмотр"
+
+#: includes/email-builder.php:524
+msgid "View detail in document."
+msgstr "Просмотр деталей в документе."
+
+#: includes/templates/email-testing.php:57
+msgid "View mobile version (width < 380px)"
+msgstr "Мобильная версия (ширина < 320px)"
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr "VillaTheme"
+
+#: includes/templates/email-editor.php:540
+msgid "When cancelled"
+msgstr "Когда отменено"
+
+#: includes/init.php:71 includes/init.php:79 includes/init.php:87
+#: includes/init.php:95 includes/init.php:107 includes/init.php:120
+#: includes/init.php:133 includes/init.php:146 includes/init.php:159
+#: includes/init.php:172
+msgid "White"
+msgstr "Белый"
+
+#: includes/init.php:114 includes/init.php:127 includes/init.php:140
+#: includes/init.php:153 includes/init.php:166 includes/init.php:179
+msgid "White - Color"
+msgstr "Белый - Цвет"
+
+#: includes/init.php:109 includes/init.php:122 includes/init.php:135
+#: includes/init.php:148 includes/init.php:161 includes/init.php:174
+msgid "White border"
+msgstr "Белая рамка"
+
+#: includes/init.php:75 includes/init.php:83 includes/init.php:91
+#: includes/init.php:99
+msgid "White/Black"
+msgstr "Белый/черный"
+
+#: includes/init.php:72 includes/init.php:80 includes/init.php:88
+#: includes/init.php:96
+msgid "White/Border"
+msgstr "Белый/Рамка"
+
+#: includes/email-builder.php:296
+msgid "WooCommerce Email Customizer test email template"
+msgstr "Тест письма"
+
+#. Name of the plugin
+msgid "WooCommerce Email Template Customizer Premium"
+msgstr "WooCommerce Email Template Customizer Premium"
+
+#: includes/email-render.php:1041
+msgid "WooCommerce hook placeholder"
+msgstr "Заполнитель хука WooCommerce"
+
+#: includes/init.php:466
+msgid "You can automatically update this plugin. See"
+msgstr "Вы можете автоматически обновить этот плагин. См."
+
+#: includes/email-builder.php:302
+msgid "Your server can't send email"
+msgstr "Ваш сервер не может отправлять электронную почту"
+
+#~ msgid "Order fully refunded"
+#~ msgstr "Заказ полностью возвращен"
+
+#~ msgid "Refund"
+#~ msgstr "Возврат"
