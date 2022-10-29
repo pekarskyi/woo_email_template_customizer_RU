@@ -7,3 +7,5 @@
 
 Загрузите файл: viwec-email-template-customizer-ru_RU
 на сайт, в папку /wp-content/languages/plugins/
+
+Есть вопросы и предложения? https://github.com/Dizer7/woo_email_template_customizer_RU/issues
