@@ -12,3 +12,5 @@
 на сайт, в папку /wp-content/languages/plugins/
 
 Есть вопросы и предложения? https://github.com/Dizer7/woo_email_template_customizer_RU/issues
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://sitex.me/standwithukraine)
